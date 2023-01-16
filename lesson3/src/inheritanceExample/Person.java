@@ -19,7 +19,7 @@ public class Person {
         this.firstName = firstName;
     }
 
-    public String geLasttName(){
+    public String geLastName(){
         return lastName;
     }
 
